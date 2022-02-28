@@ -34,10 +34,11 @@
 
 ## Views
 
-Laptop: 1024X312<br>
-Tablet:  768X312<br>
-Mobile-S: 320X312<br>
-Mobile-L: 425X254
+[Laptop:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/1) 1024X312<br>
+![Laptop View](https://user-images.githubusercontent.com/80166639/155998924-bb1c907e-4fe7-40c1-b1bd-e1d1805915e3.png)
+[Tablet:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/2)  768X312<br>
+[Mobile-S:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/4) 320X312<br>
+[Mobile-L:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/3) 425X254
 
 ## Fonts And Colors
 
@@ -63,6 +64,8 @@ Mobile-L: 425X254
 ## Getting Started
 
 - Clone this repository with git clone
+
+![Clone-Repository](https://user-images.githubusercontent.com/80166639/156000904-810121f2-11a7-4066-b874-8defb1fda19c.jpg)
 
 <u>Type the following into the terminal:</u>
 
