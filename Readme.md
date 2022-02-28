@@ -72,7 +72,7 @@
 ```
 git clone https://github.com/beyzanur-seyhan/responsive-news-website.git
 ```
-- Or: <a download="https://github.com/beyzanur-seyhan/responsive-news-website/archive/refs/heads/main.zip">Download ZIP</a>
+- Or: <a href="#" download="https://github.com/beyzanur-seyhan/responsive-news-website/archive/refs/heads/main.zip">Download ZIP</a>
 
 ## Requirements
 
