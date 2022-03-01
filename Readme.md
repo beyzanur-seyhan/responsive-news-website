@@ -37,8 +37,8 @@
 [Laptop:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/1) 1024X312<br>
 ![Laptop View](https://user-images.githubusercontent.com/80166639/155998924-bb1c907e-4fe7-40c1-b1bd-e1d1805915e3.png)
 [Tablet:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/2)  768X312<br>
-[Mobile-S:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/4) 320X312<br>
-[Mobile-L:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/3) 425X254
+[Mobile-L:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/3) 425X254<br>
+[Mobile-S:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/4) 320X312
 
 ## Fonts And Colors
 
@@ -72,7 +72,9 @@
 ```
 git clone https://github.com/beyzanur-seyhan/responsive-news-website.git
 ```
-- Or: <a href="#" download="https://github.com/beyzanur-seyhan/responsive-news-website/archive/refs/heads/main.zip">Download ZIP</a>
+
+- Or: <a href="https://github.com/beyzanur-seyhan/responsive-news-website/archive/refs/heads/main.zip" download="https://github.com/beyzanur-seyhan/responsive-news-website/archive/refs/heads/main.zip">Download ZIP</a>
+
 
 ## Requirements
 
