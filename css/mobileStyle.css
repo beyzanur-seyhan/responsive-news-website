@@ -169,7 +169,7 @@ font-weight: 100;
     margin-top: 5px;
     display: grid;
     grid-template-rows: 3% auto;
-    padding: 0 10vw;
+    padding: 0px;
 }
 
 #content>main>.main-header{
