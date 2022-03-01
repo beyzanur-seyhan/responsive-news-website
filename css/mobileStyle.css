@@ -164,6 +164,12 @@ font-weight: 100;
 }
 /********* Slider End *********/
 
+/********* Content's Header Start *********/
+#content>main>.main-header>h2{
+    text-align: center;
+}
+/********* Content's Header End *********/
+
 /********* Content Start *********/
 #content>main{
     margin-top: 5px;
