@@ -1,7 +1,9 @@
+/********* Fonts Start *********/
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+/********* Fonts End *********/
 
+/********* Global Features Start *********/
 *{
     padding: 0;
     margin: 0;
@@ -61,9 +63,9 @@ h2{
 body,html{
     height: 100%;
 }
+/********* Global Features End *********/
 
-/********* Body *********/
-
+/********* Body Start *********/
 body{
     font-family: 'Roboto', sans-serif;
     display: grid;
@@ -73,9 +75,9 @@ body{
     grid-template-rows: auto 1fr auto;
     background-color: #F4F3F4;
 }
+/********* Body End *********/
 
-/********* Top Bar *********/
-
+/********* Top Bar Start *********/
 #header{
     grid-area: header;
     position: fixed;
@@ -131,17 +133,17 @@ body{
     color: white;
     background-color: black;
 }
+/********* Top Bar End *********/
 
-/********* Container *********/
-
+/********* Container Start *********/
 #content{
     grid-area: content;
     display: grid;
     grid-template-rows: 3fr 8fr;
 }
+/********* Container End *********/
 
-/********* Slider *********/
-
+/********* Slider Start *********/
 #content>.intro{
     background-image:linear-gradient(to right, rgba(71, 71, 71, 0.5), rgba(71, 71, 71, 0.5)),  url(../img/featured.jpg);
     background-size: cover;
@@ -188,10 +190,9 @@ font-weight: 100;
     background-color:#C9262A;
     padding: 10px 25px ;
 }
+/********* Slider End *********/
 
-
-/********* Content *********/
-
+/********* Content Start *********/
 #content>main{
     margin-top: 25px;
     display: grid;
@@ -266,9 +267,9 @@ font-weight: 100;
 #content>main>section>article>.img>img{
     width: 26rem;
 }
+/********* Content End *********/
 
-/********* Footer *********/
-
+/********* Footer Start *********/
 footer{
     grid-area: footer;
     display: grid;
@@ -325,3 +326,4 @@ footer>.copy-rigtht{
 input{
     outline: none;
 }
+/********* Footer End *********/
