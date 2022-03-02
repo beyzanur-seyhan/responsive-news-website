@@ -38,7 +38,7 @@ body{
     gap: 15px;
     background-color: white;
     padding: 10px 5vw;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 
 #header>.logo{
@@ -48,7 +48,7 @@ body{
 }
 
 #header>.logo>img{
-    width: 50%;
+    width: 100%;
 }
 
 #header>.icons{
