@@ -34,7 +34,7 @@
 
 ## Views
 
-[Laptop:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/1) 1024X312<br>
+[Laptop:](https://user-images.githubusercontent.com/80166639/156396672-49ee79ba-1fb3-430e-84e1-4e23b03207ae.png) 1024X312<br>
 ![Laptop View](https://user-images.githubusercontent.com/80166639/155998924-bb1c907e-4fe7-40c1-b1bd-e1d1805915e3.png)
 [Tablet:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/2)  768X312<br>
 [Mobile-L:](https://github.com/beyzanur-seyhan/responsive-news-website/issues/3) 425X254<br>
