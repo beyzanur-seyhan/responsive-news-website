@@ -56,6 +56,10 @@ a{
     padding: 10px;
 }
 
+.ml-5{
+    margin-left: 5px;
+}
+
 h2{
     font-family: 'Anton', sans-serif;
 }
@@ -109,11 +113,6 @@ body{
     margin-right: 10vw;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-}
-
-#header .icons>a{
-    color:gray;
-    font-size: 12px;
 }
 
 #header>.menu>ul>li>a{
@@ -285,6 +284,11 @@ footer>.main-foot{
     display:grid;
     grid-template-columns: repeat(4,1fr);
     grid-gap: 35px;
+}
+
+footer .icons>a{
+    color:rgb(214, 214, 214);
+    font-size: 12px;
 }
 
 footer>.main-foot>.foot-box>p{
