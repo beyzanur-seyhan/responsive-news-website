@@ -214,7 +214,7 @@ font-weight: 100;
 }
 
 #content>main>section>article>.img{
-    width: 22rem;
+    width: 100%;
 }
 
 #content>main>section>article>.img>img{
