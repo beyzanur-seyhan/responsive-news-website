@@ -94,4 +94,4 @@ git clone https://github.com/beyzanur-seyhan/responsive-news-website.git
 
 If you want to contact me about this project, the channels you can contact are:
 
-[Gmail](mailto:admin@cloudhadoop.com) | [Linkedin](https://www.linkedin.com/in/beyzanurseyhan/)
+[Gmail](mailto:info@beyzanurseyhan.com) | [Linkedin](https://www.linkedin.com/in/beyzanurseyhan/)
